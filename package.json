@@ -1,0 +1,29 @@
+{
+  "name": "data-bharat",
+  "version": "0.0.0",
+  "description": "A list of states,uts,districts and other information of India",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayantur13/data-bharat.git"
+  },
+  "keywords": [
+    "data India",
+    "data india",
+    "data-india",
+    "data-bharat",
+    "open data india",
+    "india-Data",
+    "states-india",
+    "districts-india"
+  ],
+  "author": "Jayant Navrange",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayantur13/data-bharat/issues"
+  },
+  "homepage": "https://github.com/jayantur13/data-bharat#readme"
+}
