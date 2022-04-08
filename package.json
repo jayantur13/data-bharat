@@ -1,6 +1,6 @@
 {
   "name": "data-bharat",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A list of states,uts,districts and other information of India",
   "main": "example.js",
   "scripts": {
