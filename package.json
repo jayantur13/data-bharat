@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/jayantur13/data-bharat.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "keywords": [
     "data India",
     "data india",
