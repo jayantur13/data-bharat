@@ -1,5 +1,5 @@
-<p align="center"><img src="https://cdn.imgpaste.net/2022/04/09/KYmZZS.md.png"/></p>
-<p align="center"> 
+<p align="center">
+  <img src="https://cdn.imgpaste.net/2022/04/09/KYmZZS.md.png"/><br>
   <img src="https://img.shields.io/npm/l/data-bharat?style=flat-square"/>
   <img src="https://img.shields.io/bundlephobia/min/data-bharat?style=flat-square"/>
   <img src="https://img.shields.io/npm/v/data-bharat?style=flat-square"/>
@@ -86,8 +86,13 @@ console.log(call.stateWithAbbr('Assam','n'))
 
 ### Using this package in your project ? Want to get added here ? Drop a message. 👍
 
-### You can make contributions without breaking changes.Please read the <a href="https://github.com/jayantur13/data-bharat/blob/master/CODE_OF_CONDUCT.md">Code-Of-Conduct</a>
+# Contribution
+You can make contributions without breaking changes.Please read the <a href="https://github.com/jayantur13/data-bharat/blob/master/CODE_OF_CONDUCT.md">`Code-Of-Conduct`</a> and <a href="https://github.com/jayantur13/data-bharat/blob/master/CONTRIBUTING.md">`Contributing`</a> before doing contribution.
 
-### License <a href="https://github.com/jayantur13/data-bharat/blob/master/LICENSE">MIT</a>. Please, attribute me and this repo if you use it for any of your purpose
+# Support the project
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jayantur13v)
 
-### Last Updated: 08-04-2022
+# License 
+Licensed under <a href="https://github.com/jayantur13/data-bharat/blob/master/LICENSE">MIT</a>. Please, attribute me and this repo if you use it for any of your purpose
+
+### Last Updated: 18-06-2022
